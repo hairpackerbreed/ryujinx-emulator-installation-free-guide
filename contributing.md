@@ -1,4 +1,4 @@
-# 🎮 Ryujinx Emulator Installation Free Guide
+# 🌍 Ryujinx Emulator Installation Free Guide
 
 <p align="center">
   <img src="https://img.shields.io/badge/Descargas-2.8M+-2E7D32?style=for-the-badge&logo=github" />
